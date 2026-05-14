@@ -1,0 +1,8 @@
+{
+"alert_id": "A003",
+"type": "suspicious_network_activity",
+"destination_ip": "185.82.219.5",
+"port": 4444,
+"protocol": "TCP",
+"timestamp": "2026-05-14T04:32:51Z"
+}

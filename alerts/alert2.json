@@ -1,0 +1,8 @@
+{
+"alert_id": "A002",
+"type": "malware_detection",
+"file_name": "invoice_payment.exe",
+"file_path": "/user/downloads/",
+"hash": "af39c89d9d71b4c...",
+"timestamp": "2026-05-14T03:48:12Z"
+}
